@@ -1,0 +1,9 @@
+numpy
+pyvista
+matplotlib
+shapely
+tabulate
+shelxfile
+os
+sys
+argparse
