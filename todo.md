@@ -1,0 +1,4 @@
+- Custom vdW radii implementation (from selected articles? from user file?)
+- Add connectivity matrix (as in ```FMOL```) for molecule visualization
+- Add algorithm for optimal hkl search (can ```MPLN``` be an alternative?)
+- Convert everything to a class for easier access (later...)
