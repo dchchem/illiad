@@ -1,3 +1,4 @@
+- The ILMPC for some crystal structures can be up to 10 times lower than usual, while the ILMPC2 returns normal values.
 - Custom vdW radii implementation (from selected articles? from user file?)
 - Add connectivity matrix (as in ```FMOL```) for molecule visualization
 - Add algorithm for optimal hkl search (can ```MPLN``` be an alternative?)
