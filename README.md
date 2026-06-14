@@ -1,6 +1,8 @@
 # ILLIAD - Precise Layered Molecular Packing Metrics Evaluation
 <img width="500" alt="illiad_cover_github" src="https://github.com/user-attachments/assets/b06b960c-02a3-460e-a36f-7cb9acb6566e" />
 
+![Static Badge](https://img.shields.io/badge/ILMPC_CIF_test_selection-pending-orange) ![Static Badge](https://img.shields.io/badge/requests-welcome-8A2BE2)
+
 ILLIAD is a Python script dedicated to a precise calculation of various descriptors and metrics for crystal structures with a layered packing. The script can be run from command line both with and without initial parsing.
 The program reads the SHELXL ```.res``` file with the asymmetric unit cell **already grown** (if the molecule lies on the special position, e.g. mirror plane, inversion center, rotoational axis, etc.) and prints out some crucial intra- and interlayered packing metrics.
 
@@ -20,4 +22,5 @@ python illiad.py [-h] [-hkl h k l] [-m MOL] [-r RESOLUTION] [-q] [--sect SECT] [
 ```
 
 <div align="right">
+  To be continued...
   (C) Danila R. Chernyavskiy, 2026
