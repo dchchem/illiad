@@ -11,7 +11,7 @@ Example of command line execution:
 - ```-h``` - print the usage instructions
 - ```-hkl``` - Miller (hkl) indices for a layer (need to be calculated by user a priori, e.g. with Mercury, XP or Olex2)
 - ```-m``` - number of molecules on layer per unit cell
-- ```-r``` - van der Waals sphere resolution (number of vertices per sphere)
+- ```-r``` - van der Waals sphere resolution (number of vertices per unit area)
 - ```-q``` - quiet mode with no verbose until final results are printed
 - ```-sect``` - plot the layer cross-section of a molecular van der Waals surface
 - ```-surf``` - plot the molecular van der Waals surface
